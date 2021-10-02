@@ -1,0 +1,4 @@
+# From this directory, run `source .myaliases` then `temp` in the terminal 
+# to see what happens
+
+alias temp="echo This workshop is cool!"
